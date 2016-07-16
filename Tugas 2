@@ -1,4 +1,4 @@
-TUGAS ELEKTRONIKA ANALOG DASAR II
+TUGAS ELEKTRONIKA ANALOG DASAR
 
 No. 10
 a)	Menentukan re
@@ -33,7 +33,7 @@ c)	Ai = - (β x RB) / (RB + zb)
 	     = - 26400KΩ / 357594Ω
 	     = - 73.8
 
-*No. 11
+No. 11
 a)	Menentukan re dan βre
 b)	Mencari zi dan zo
 c)	Menghitung Ai dan Av
@@ -57,8 +57,6 @@ b)	zi  = RB // zb
 	     = 80190MΩ / 567KΩ
 	     = 141.43KΩ
 
-
-
 	zo = RE // re
 	     = 2.7KΩ // 4.11Ω
 	     =  (2.7KΩ x 4.11Ω) / (2.7KΩ + 4.11Ω)
@@ -74,7 +72,7 @@ c)	Av = RE / (RE + re)
 	     = - 29700KΩ / 567KΩ
 	     = - 52.38
 
-*No.12
+No.12
 a)	Menentukan zi dan zo
 b)	Mencari Av
 c)	Menghitung Vo jika Vi=1mV
@@ -114,13 +112,7 @@ c)	Ai  = Vo / Vi
 	      = 1mV x 1
 	      = 1mV   
 
-
-
-
-
-
-
-*No.13
+No.13
 a)	Hitung IB dan IC
 b)	Menentukan re
 c)	Menentukan zi dan zo
@@ -145,12 +137,6 @@ b)	IE = (β + 1) IB
 	     = 26mV / 0.54mA
 	     = 46.43Ω
 
-
-
-
-
-
-
 c)	zi  = Rth // zb
 	     = 7.2KΩ // (β (re + RE))
 	     = 7.2KΩ // (200(46.43Ω + 2KΩ))
@@ -174,13 +160,11 @@ d)	Av = RE / (RE + re)
 	     = - 1440KΩ / 416.2KΩ
 	     = - 3.46
 
-*No.14
+No.14
 a)	Menentukan re
 b)	Mencari zi dan zo
 c)	Menghitung Av dan Ai
 Jawab :
-
-
 
 a)	IE = (VEE – VBE) / RE
 	     = (6 – 0.7) / 6.8KΩ
@@ -202,7 +186,7 @@ c)	Av = RC / re
 	      = 141.14 
 	Ai  = -1
 
-*No. 15
+No. 15
 a)	Menentukan Av dan Ai
 Jawab :
 a) 	IE = (VEE – VBE) / RE
